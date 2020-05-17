@@ -22,7 +22,7 @@ public:
 void hashing(int *c)
 {
 for(int i=0;i<3;i++)
-  c[i]=(c[i]*73)%263;
+  c[i]=(c[i]*2713)%1277;
 }
 
 void account::create_account()
