@@ -1,2 +1,2 @@
 # Banking-system
-A simple c++ banking system
+C++ banking system
